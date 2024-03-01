@@ -8,3 +8,4 @@ I wrote some ladder logic to sort boxes by size.
 ![HMI Demo](docs/images/hobby-hmi.gif)
 
 _A quick loop of the conveyor HMI in action, March 2024._
+
